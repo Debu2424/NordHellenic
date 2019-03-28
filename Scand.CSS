@@ -1,1 +1,11 @@
-
+body {
+  background: url(norrsken_RBY.jpg) no-repeat;
+  background-size: 100%;
+}
+.centered {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 5em;
+}
